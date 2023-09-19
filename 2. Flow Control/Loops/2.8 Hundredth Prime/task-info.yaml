@@ -8,7 +8,7 @@ files:
     visible: true
     placeholders:
       - offset: 83
-        length: 68
+        length: 78
         placeholder_text: /* Make a code that displays the 100th prime number */
         initial_state:
           length: 54
