@@ -4,4 +4,7 @@ public class Sheep
 
     //code the constructor so that every time a Sheep is instantiated, it adds 1 to the count
     /* Add 1 to the Sheep count everytime one is created. */
+    public Sheep() {
+        count += 1;
+    }
 }
